@@ -1,1 +1,5 @@
-### A repository for training face2face at 1024px resolution using Google Colab.
+### face2face 1024 colab demo
+
+A project made on Google Colab to train easily face2face using Karol Majek High Resolution mod.
+
+Original project: [HERE](https://github.com/karolmajek/face2face-demo)
